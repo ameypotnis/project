@@ -25,6 +25,7 @@
     <module>cardgame</module>
     <module>snakeladder</module>
     <module>trafficsignal</module>
+	<module>patterns</module>
   </modules>
  
 </project>
